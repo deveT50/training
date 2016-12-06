@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <iostream>
+//長さcmの棒上のn匹のありが棒から落ちる時間を求める
+//ありの移動速度は1cm/seconds
 
 //棒の長さとありの数
 int L;
